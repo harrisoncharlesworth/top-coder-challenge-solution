@@ -56,4 +56,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+**Note**: If you encounter dependency issues, the solution was developed and tested with the included virtual environment. For evaluation, ensure pandas, scikit-learn, and numpy are available.
+
 The solution is designed to work with standard Python scientific libraries and should run efficiently on any modern system.
