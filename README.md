@@ -47,8 +47,13 @@ Example:
 ## Dependencies
 
 - Python 3.x
-- pandas
-- scikit-learn
-- pickle (standard library)
+- pandas>=1.3.0
+- scikit-learn>=1.0.0  
+- numpy>=1.20.0
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 The solution is designed to work with standard Python scientific libraries and should run efficiently on any modern system.
